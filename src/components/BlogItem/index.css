@@ -1,0 +1,28 @@
+/* Write your CSS code here */
+.heading {
+  color: #12022f;
+  font-family: 'Roboto';
+  font-size: 20px;
+}
+
+.date {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.text {
+  color: #9aa5b1;
+  font-family: 'Roboto';
+  font-size: 15px;
+}
+
+.sub-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.mini-container {
+  display: flex;
+  justify-content: space-between;
+}
